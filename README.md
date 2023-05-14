@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile! 👋
+# Welcome 👋
 
 Hey there! My name is Mohammed Hashique, and I'm interested in 💻 computer science and 🖥️ software development, with a particular focus on 🌐 web development.
 
